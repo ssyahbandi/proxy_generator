@@ -1,4 +1,6 @@
-# proxy_generator
+# proxy generator
+Mengisi Kegabutan 
+Ini Repo ga berguna wkwkkw
 Buat Proxy Random
 
 Menghasilkan proxy acak dengan format IP:Port
